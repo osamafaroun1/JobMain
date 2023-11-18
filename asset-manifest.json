@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JobMain/static/css/main.dd6d898f.css",
+    "main.js": "/JobMain/static/js/main.fa69daed.js",
+    "static/js/787.28cb0dcd.chunk.js": "/JobMain/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background-login.png": "/JobMain/static/media/background-login.a4aa2db715692467fcee.png",
+    "index.html": "/JobMain/index.html",
+    "main.dd6d898f.css.map": "/JobMain/static/css/main.dd6d898f.css.map",
+    "main.fa69daed.js.map": "/JobMain/static/js/main.fa69daed.js.map",
+    "787.28cb0dcd.chunk.js.map": "/JobMain/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6d898f.css",
+    "static/js/main.fa69daed.js"
+  ]
+}
